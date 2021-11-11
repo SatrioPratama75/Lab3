@@ -27,7 +27,8 @@ Berikut screenshoot dari input dan outputnya.
 
 ![Latihan2](https://user-images.githubusercontent.com/92651803/141196299-2f0a1677-8426-41cd-9544-ebb4ce8f3a19.png)
 
-==================== TUGAS PRAKTIKUM 3 =========================
+=== TUGAS PRAKTIKUM 3 ===
+
 ^^Program1^^
 - Membuat program sederhana dengan perulangan.
 - Menghitung total keseluruhan laba.
@@ -36,6 +37,6 @@ Berikut screenshoot dari input dan outputnya.
 
 ![Program1](https://user-images.githubusercontent.com/92651803/141196544-c71b186e-ec11-482d-8072-81ea09bf7e9b.png)
 
-================================================================
+=========================
 
 Sekian dari tugas Lab3
